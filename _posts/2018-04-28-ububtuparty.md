@@ -32,7 +32,7 @@ tags: [우분투, ubuntu 18.04]
 제 첫 커뮤니티 발표
 ------------------
 
-[![Video Label](assets/img/postimg/2018-04-28/4.jpeg)](https://youtu.be/UhHjG4slppA)
+[![Video Label](https://github.com/herdson/herdson.github.io/blob/master/assets/img/postimg/2018-04-28/4.jpeg?raw=true)](https://youtu.be/UhHjG4slppA)
 
 처음 하는 발표라 다른 분들이 하시는 프로젝트 발표보다는 빈약했지만 발표가 끝나고 다들 박수를 쳐주셔서 감사하다고 생각했습니다.
 제 발표 내용을 글로 정리하자면
@@ -41,6 +41,6 @@ tags: [우분투, ubuntu 18.04]
 
 저를 위해 발표 자리를 내준 커뮤니티에게 감사의 말씀을 전합니다.
 
-![ERROR](https://github.com/herdson/herdson.github.io/blob/master/assets/img/postimg/2018-04-28/5.jpg?raw=true)
+![ERROR](https://github.com/herdson/herdson.github.io/blob/master/assets/img/postimg/2018-04-28/5.jpeg?raw=true)
 릴리즈 파티의 막이 내리고 소소한 경품도 받았습니다. 추후 이런 행사에 많이 참여할 수 있도록 노력해야겠습니다.
 
