@@ -33,6 +33,7 @@ tags: [우분투, ubuntu 18.04]
 ------------------
 
 [![Video Label](https://github.com/herdson/herdson.github.io/blob/master/assets/img/postimg/2018-04-28/4.jpeg?raw=true)](https://youtu.be/UhHjG4slppA)
+해당 사진을 클릭하면 해당 영상이 있는 유튜브로 이동합니다.
 
 처음 하는 발표라 다른 분들이 하시는 프로젝트 발표보다는 빈약했지만 발표가 끝나고 다들 박수를 쳐주셔서 감사하다고 생각했습니다.
 제 발표 내용을 글로 정리하자면
